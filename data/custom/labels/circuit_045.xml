@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>circuit_045.jpg</filename>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>480</width>
+    <height>480</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>usb</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>80</xmin>
+        <ymin>98</ymin>
+        <xmax>238</xmax>
+        <ymax>218</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>charge</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>334</xmin>
+        <ymin>38</ymin>
+        <xmax>364</xmax>
+        <ymax>88</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>done</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>364</xmin>
+        <ymin>38</ymin>
+        <xmax>398</xmax>
+        <ymax>91</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>batt+</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>413</xmin>
+        <ymin>36</ymin>
+        <xmax>442</xmax>
+        <ymax>80</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>batt-</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>417</xmin>
+        <ymin>251</ymin>
+        <xmax>460</xmax>
+        <ymax>294</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>rprog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>256</xmin>
+        <ymin>268</ymin>
+        <xmax>312</xmax>
+        <ymax>292</ymax>
+    </bndbox>
+</object>
+</annotation>
